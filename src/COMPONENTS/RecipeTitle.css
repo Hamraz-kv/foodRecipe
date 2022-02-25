@@ -1,0 +1,13 @@
+.recipetitleIMG{
+    height:200px;
+    width:200px;
+    border-radius: 8px;
+}
+.recipetitleLabel{
+    max-width: 200px;
+    text-align: center;
+}
+.recipetitle{
+    margin-top: 15px;
+   cursor: pointer;
+}
